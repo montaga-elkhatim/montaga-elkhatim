@@ -1,6 +1,5 @@
 - 👋 Hi, I’m montaga mohamed elkhatim
-- 👀 I’m interested in Web development 
-- 🌱 I’m currently learning Django 
+- 👀 I’m interested in Odoo development 
 
 <!---
 montaga-elkhatim/montaga-elkhatim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
